@@ -157,7 +157,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#f1e425"
+				"foreground": "#ffd700"
 			}
 		},
 		{

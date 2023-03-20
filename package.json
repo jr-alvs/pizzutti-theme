@@ -2,7 +2,7 @@
   "name": "pizzutti-theme",
   "displayName": "Pizzutti Theme",
   "description": "This VS Code theme was created for my great friend Pedro Pizzutti.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "assets/icon.png",
   "publisher": "jr-alvs",
   "repository": {
