@@ -1,0 +1,32 @@
+{
+  "name": "pizzutti-theme",
+  "displayName": "Pizzutti Theme",
+  "description": "This VS Code theme was created for my great friend Pedro Pizzutti.",
+  "version": "0.0.1",
+  "icon": "assets/icon.png",
+  "publisher": "jr-alvs",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/jr-alvs/pizzutti-theme"
+  },
+  "scripts": {
+    "list": "vsce ls",
+    "publish": "vsce publish",
+    "package": "vsce package "
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pizzuti-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pizzuti-theme-color-theme.json"
+      }
+    ]
+  }
+}
