@@ -1,16 +1,21 @@
-# pizzutti-theme README
+# Pizzutti Theme
 
-## Working with Markdown
+This is an extension for a Visual Studio Code dark theme.
+This theme was created for my great friend Pedro Pizzutti.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Description
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This theme uses low intensity colors to help those whose eyes are sensitive to bright screens.
+Right now, this theme has support for most JavaScript style languages, but additional support will be added for common languages like `PLSQL (Oracle)`, `Delphi (Pascal)`, etc.
 
-## For more information
+![Screenshot](./assets/screenshot.png "Pizzutti Theme Screenshot")
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
 
-**Enjoy!**
+1. Open the Extensions sidebar via `View -> Extensions` and search for `Pizzutti`.
+2. Click `Install` and then click `Reload` to activate the theme.
+3. Verify `Settings -> Color Theme [Command K Command T] -> Pizzutti` is set.
+
+### Feedback
+If you have any suggestions, please [open an issue](https://github.com/jr-alvs/pizzutti-theme/issues)
+or a [pull request](https://github.com/jr-alvs/pizzutti-theme/pulls).
